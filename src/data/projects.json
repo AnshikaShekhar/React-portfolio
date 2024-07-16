@@ -1,0 +1,16 @@
+[
+    {
+      "title": "Portfolio Website",
+      "imageSrc": "/assets/projects/project.png",
+      "description": "This is a project made to learn basics of web development.",
+      "skills": ["Html", "Css", "JavaScript"],
+      "source": "https://github.com/AnshikaShekhar"
+    },
+    {
+      "title": "Alert Eyes",
+      "imageSrc": "assets/projects/project.png",
+      "description": "This project is beneficial in detecting drowsiness in real time.",
+      "skills": ["Python", "Keras", "Tensorflow", "OpenCV"],
+      "source": "https://github.com/AnshikaShekhar"
+    }
+  ]
