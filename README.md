@@ -13,7 +13,7 @@ A modern, responsive portfolio website built using **React.js** to showcase my s
 ## 🛠 Tech Stack
 
 - **Frontend**: React.js, HTML5, CSS3, JavaScript  
-- **Styling**: CSS Modules / Tailwind CSS (choose based on your setup)  
+- **Styling**: CSS Modules 
 - **Icons**: React Icons  
 - **Deployment**: Netlify 
 
